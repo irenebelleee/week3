@@ -1,0 +1,21 @@
+.redtext {
+  color:white;
+  text-align: center;
+  padding-bottom: 50px;
+  padding-top :30px;
+}
+
+.App-logo {
+    animation: App-logo-spin infinite 1s linear;
+    height: 80px;
+    padding-top: 20px;
+  }
+
+.redbg {
+  background-color: crimson;
+}
+
+.center {
+    display: block;
+    margin: auto;
+}
